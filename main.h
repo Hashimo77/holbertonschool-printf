@@ -4,7 +4,7 @@
 #include <stdarg.h>
 #include <unistd.h>
 
-/* Prototype */
 int _printf(const char *format, ...);
+int print_number(int n);
 
 #endif /* MAIN_H */
